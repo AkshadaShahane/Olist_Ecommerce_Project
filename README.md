@@ -38,8 +38,7 @@ Project Structure
 Edit
 ├── data/           # Raw and cleaned datasets  
 ├── notebooks/      # Jupyter notebooks for EDA and modeling  
-├── dashboard/      # Power BI dashboard file  
-├── scripts/        # Python preprocessing and forecasting scripts  
+├── dashboard/      # Power BI dashboard file   
 ├── README.md       # Project description and instructions  
 
 Results
